@@ -8,7 +8,7 @@ This is the official implementation of the paper Embedding Shepard’s interpola
 # Training
 ## Preprocessing
 <pre>
-# Split the dataset into training and validation 
+# Split the dataset into training, validation and testing
 # and store them in an HDF5 file format
 </pre>
 <pre>
