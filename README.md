@@ -13,5 +13,10 @@ This is the official implementation of the paper Embedding Shepard’s interpola
 </pre>
 <pre>
 # Check the hyperparameters in args.py and run
-Python main.ply
+Python main.ply --mode train
+</pre>
+
+# Testing
+<pre>
+  python main.py --mode test
 </pre>
