@@ -1,0 +1,21 @@
+ARGUMENTS
+batch_size: 64
+dataset: KITTI
+dataset_dir: /data//Datasets/
+device: cuda
+epochs: 50
+imshow_batch: False
+learning_rate: 0.01
+lr_decay: 0.1
+lr_decay_epochs: 100
+mode: train
+name: ENet
+print_step: False
+resume: False
+save_dir: /home/shambel/SparConv/trained_final/
+weight_decay: 0.0005
+workers: 4
+
+BEST VALIDATION
+Epoch: 50
+Mean IoU: 1.9589675776312285

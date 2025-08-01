@@ -1,0 +1,21 @@
+ARGUMENTS
+batch_size: 16
+dataset: cityscapes
+dataset_dir: /data/nyudepthv2/
+device: cuda
+epochs: 5
+imshow_batch: False
+learning_rate: 0.0001
+lr_decay: 0.1
+lr_decay_epochs: 100
+mode: train
+name: IDWNet
+print_step: False
+resume: False
+save_dir: /home/fibe/projects/IDWNet/IDWNet_output
+weight_decay: 0.0002
+workers: 4
+
+BEST VALIDATION
+Epoch: 5
+Mean IoU: 0.04157187608070671
