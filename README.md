@@ -24,19 +24,20 @@ Python main.ply --mode train
   python main.py --mode test
 </pre>
 
+# For citing this paper
 <pre>
 @inproceedings{10.1007/978-3-031-47546-7_23,
-author = {Mengistu, Shambel Fente and Pistellato, Mara and Bergamasco, Filippo},
-title = {Embedding Shepard’s Interpolation into&nbsp;CNN Models for&nbsp;Unguided Depth Completion},
-year = {2023},
-isbn = {978-3-031-47545-0},
-publisher = {Springer-Verlag},
-address = {Berlin, Heidelberg},
-url = {https://doi.org/10.1007/978-3-031-47546-7_23},
-doi = {10.1007/978-3-031-47546-7_23},
-pages = {336–350},
-numpages = {15},
-keywords = {Sparse convolution, CNN, Depth Completion, Inverse Distance Weighting, Shepard’s Interpolation},
-location = {Rome, Italy}
-}
+               author = {Mengistu, Shambel Fente and Pistellato, Mara and Bergamasco, Filippo},
+               title = {Embedding Shepard’s Interpolation into&nbsp;CNN Models for&nbsp;Unguided Depth Completion},
+               year = {2023},
+               isbn = {978-3-031-47545-0},
+               publisher = {Springer-Verlag},
+               address = {Berlin, Heidelberg},
+               url = {https://doi.org/10.1007/978-3-031-47546-7_23},
+               doi = {10.1007/978-3-031-47546-7_23},
+               pages = {336–350},
+               numpages = {15},
+               keywords = {Sparse convolution, CNN, Depth Completion, Inverse Distance Weighting, Shepard’s Interpolation},
+               location = {Rome, Italy}
+            }
 </pre>
