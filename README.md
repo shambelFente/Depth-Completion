@@ -15,7 +15,7 @@ This is the official implementation of the paper Embedding Shepard’s interpola
 # and store them in an HDF5 file format
 </pre>
 <pre>
-# Check the hyperparameters in args.py and run
+# For training, set the hyperparameters in args.py and run
 Python main.ply --mode train
 </pre>
 
